@@ -1,0 +1,6 @@
+# Additional requirements for single-pair Flow-Style-VTON inference
+torch>=1.1.0
+torchvision>=0.3.0
+pillow>=8.0.0
+opencv-python-headless>=4.5.0
+numpy>=1.19.0

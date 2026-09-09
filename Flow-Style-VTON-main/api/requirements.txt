@@ -1,0 +1,9 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+pillow>=9.0.0
+torch>=1.1.0
+torchvision>=0.3.0
+rembg>=2.0.50
+pyngrok>=7.0.0
+requests>=2.28.0

@@ -1,0 +1,54 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# AI model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Large datasets / archives
+*.zip
+*.tar
+*.tar.gz
+
+# Generated files
+*.log
+
+# Vite
+frontend/.vite/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+node_modules/
+.idea/
+__pycache__/
+
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+*.zip
+*.tar
+*.tar.gz
+
+frontend/dist/
+frontend/.vite/
